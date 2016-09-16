@@ -1,0 +1,4 @@
+<map id="readdy::model::reactions::Enzymatic" name="readdy::model::reactions::Enzymatic">
+<area shape="rect" id="node3" href="$classreaddy_1_1kernel_1_1singlecpu_1_1reactions_1_1Enzymatic.html" title="{readdy::kernel::singlecpu\l::reactions::Enzymatic\n||+ Enzymatic()\l+ perform()\l+ replicate()\l}" alt="" coords="19,654,185,775"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1reactions_1_1Reaction.html" title="{readdy::model::reactions\l::Reaction\&lt; 2 \&gt;\n|+ n_educts\l# _n_educts\l# _n_products\l# educts\l# products\l# name\l# id\l# rate\l# eductDistance\l# eductDistanceSquared\l# productDistance\l# rand\l|+ Reaction()\l+ Reaction()\l+ ~Reaction()\l+ getName()\l+ getId()\l+ getRate()\l+ getNEducts()\l+ getNProducts()\l+ getEductDistance()\l+ getEductDistanceSquared()\land 6 more...\l}" alt="" coords="5,5,200,405"/>
+</map>

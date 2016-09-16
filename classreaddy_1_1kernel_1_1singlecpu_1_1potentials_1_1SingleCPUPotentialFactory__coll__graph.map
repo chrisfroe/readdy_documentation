@@ -1,0 +1,8 @@
+<map id="readdy::kernel::singlecpu::potentials::SingleCPUPotentialFactory" name="readdy::kernel::singlecpu::potentials::SingleCPUPotentialFactory">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1potentials_1_1PotentialFactory.html" title="{readdy::model::potentials\l::PotentialFactory\n||+ getAvailablePotentials()\l+ createPotentialAs()\l+ createPotential()\l+ createPotential()\l}" alt="" coords="337,784,508,920"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="387,236,465,313"/>
+<area shape="rect" id="node6" href="$classreaddy_1_1kernel_1_1singlecpu_1_1SingleCPUKernel.html" title="{readdy::kernel::singlecpu\l::SingleCPUKernel\n||+ SingleCPUKernel()\l+ ~SingleCPUKernel()\l+ SingleCPUKernel()\l+ operator=()\l+ getKernelStateModel()\l+ getKernelContext()\l+ getProgramFactory()\l+ getAvailablePotentials()\l+ createPotential()\l+ getPotentialFactory()\l+ getReactionFactory()\l+ getObservableFactory()\l+ create()\l}" alt="" coords="153,451,324,719"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="363,6,489,98"/>
+<area shape="rect" id="node7" href="$classreaddy_1_1model_1_1Kernel.html" title="{readdy::model::Kernel\n||+ Kernel()\l+ ~Kernel()\l+ Kernel()\l+ operator=()\l+ Kernel()\l+ operator=()\l+ getName()\l+ createProgram()\l+ createProgram()\l+ createObservable()\land 26 more...\l}" alt="" coords="164,163,312,387"/>
+<area shape="rect" id="node8" href="$classreaddy_1_1model_1_1Plugin.html" title="{readdy::model::Plugin\n||+ getName()\l+ ~Plugin()\l}" alt="" coords="5,6,152,98"/>
+</map>

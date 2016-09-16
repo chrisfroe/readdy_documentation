@@ -1,0 +1,3 @@
+<map id="readdy::model::reactions::Decay" name="readdy::model::reactions::Decay">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1reactions_1_1Reaction.html" title="{readdy::model::reactions\l::Reaction\&lt; 1 \&gt;\n|+ n_educts\l# _n_educts\l# _n_products\l# educts\l# products\l# name\l# id\l# rate\l# eductDistance\l# eductDistanceSquared\l# productDistance\l# rand\l|+ Reaction()\l+ Reaction()\l+ ~Reaction()\l+ getName()\l+ getId()\l+ getRate()\l+ getNEducts()\l+ getNProducts()\l+ getEductDistance()\l+ getEductDistanceSquared()\land 6 more...\l}" alt="" coords="5,5,200,405"/>
+</map>

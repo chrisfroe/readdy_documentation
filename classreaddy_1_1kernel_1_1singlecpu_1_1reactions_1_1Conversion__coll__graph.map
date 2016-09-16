@@ -1,0 +1,6 @@
+<map id="readdy::kernel::singlecpu::reactions::Conversion" name="readdy::kernel::singlecpu::reactions::Conversion">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1reactions_1_1Conversion.html" title="{readdy::model::reactions\l::Conversion\n||+ Conversion()\l+ getTypeFrom()\l+ getTypeTo()\l+ replicate()\l}" alt="" coords="245,712,409,848"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1reactions_1_1Reaction.html" title="{readdy::model::reactions\l::Reaction\&lt; 1 \&gt;\n|+ n_educts\l# _n_educts\l# _n_products\l# id\l# rate\l# eductDistance\l# eductDistanceSquared\l# productDistance\l|+ Reaction()\l+ Reaction()\l+ ~Reaction()\l+ getName()\l+ getId()\l+ getRate()\l+ getNEducts()\l+ getNProducts()\l+ getEductDistance()\l+ getEductDistanceSquared()\land 6 more...\l}" alt="" coords="231,320,425,661"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="520,164,599,241"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="497,6,623,98"/>
+</map>

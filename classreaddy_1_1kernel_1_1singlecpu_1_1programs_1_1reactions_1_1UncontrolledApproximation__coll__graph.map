@@ -1,0 +1,9 @@
+<map id="readdy::kernel::singlecpu::programs::reactions::UncontrolledApproximation" name="readdy::kernel::singlecpu::programs::reactions::UncontrolledApproximation">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1programs_1_1reactions_1_1UncontrolledApproximation.html" title="{readdy::model::programs\l::reactions::UncontrolledApproximation\n||+ UncontrolledApproximation()\l+ registerReactionScheme_11()\l+ registerReactionScheme_12()\l+ registerReactionScheme_21()\l+ registerReactionScheme_22()\l}" alt="" coords="5,510,251,661"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1programs_1_1Program.html" title="{readdy::model::programs\l::Program\n||+ Program()\l+ execute()\l+ ~Program()\l}" alt="" coords="45,214,211,335"/>
+<area shape="rect" id="node8" href="$classreaddy_1_1kernel_1_1singlecpu_1_1SingleCPUKernel.html" title="{readdy::kernel::singlecpu\l::SingleCPUKernel\n||+ SingleCPUKernel()\l+ ~SingleCPUKernel()\l+ SingleCPUKernel()\l+ operator=()\l+ getKernelStateModel()\l+ getKernelContext()\l+ getProgramFactory()\l+ getAvailablePotentials()\l+ createPotential()\l+ getPotentialFactory()\l+ getReactionFactory()\l+ getObservableFactory()\l+ create()\l}" alt="" coords="1129,451,1300,719"/>
+<area shape="rect" id="node9" href="$classreaddy_1_1model_1_1Kernel.html" title="{readdy::model::Kernel\n||+ Kernel()\l+ ~Kernel()\l+ Kernel()\l+ operator=()\l+ Kernel()\l+ operator=()\l+ getName()\l+ createProgram()\l+ createProgram()\l+ createObservable()\land 26 more...\l}" alt="" coords="1056,163,1204,387"/>
+<area shape="rect" id="node10" href="$classreaddy_1_1model_1_1Plugin.html" title="{readdy::model::Plugin\n||+ getName()\l+ ~Plugin()\l}" alt="" coords="879,6,1027,98"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="1244,236,1323,313"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="1234,6,1360,98"/>
+</map>

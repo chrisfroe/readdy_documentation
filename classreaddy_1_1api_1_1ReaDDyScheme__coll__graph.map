@@ -1,0 +1,7 @@
+<map id="readdy::api::ReaDDyScheme" name="readdy::api::ReaDDyScheme">
+<area shape="rect" id="node2" href="$structreaddy_1_1api_1_1SimulationScheme.html" title="{readdy::api::SimulationScheme\n|# evaluateObservables\l|+ SimulationScheme()\l+ run()\l}" alt="" coords="341,729,544,821"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1Kernel.html" title="{readdy::model::Kernel\n||+ Kernel()\l+ ~Kernel()\l+ Kernel()\l+ operator=()\l+ Kernel()\l+ operator=()\l+ getName()\l+ createProgram()\l+ createProgram()\l+ createObservable()\land 26 more...\l}" alt="" coords="160,440,308,664"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1model_1_1Plugin.html" title="{readdy::model::Plugin\n||+ getName()\l+ ~Plugin()\l}" alt="" coords="5,199,152,291"/>
+<area shape="rect" id="node7" href="$classreaddy_1_1model_1_1programs_1_1UpdateNeighborList.html" title="{readdy::model::programs\l::UpdateNeighborList\n|# action\l|+ UpdateNeighborList()\l+ setAction()\l}" alt="" coords="381,192,547,299"/>
+<area shape="rect" id="node8" href="$classreaddy_1_1model_1_1programs_1_1Program.html" title="{readdy::model::programs\l::Program\n||+ Program()\l+ execute()\l+ ~Program()\l}" alt="" coords="462,6,628,127"/>
+</map>

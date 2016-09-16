@@ -1,0 +1,11 @@
+<map id="include/readdy/kernel/singlecpu/reactions/SingleCPUReactions.h" name="include/readdy/kernel/singlecpu/reactions/SingleCPUReactions.h">
+<area shape="rect" id="node2" href="$Conversion_8h.html" title="Declaration of Conversion reactions, i.e., A&#45;&gt;B. " alt="" coords="187,110,344,151"/>
+<area shape="rect" id="node7" href="$Particle_8h.html" title="Header file containing the definitions for the particle class. " alt="" coords="506,283,664,309"/>
+<area shape="rect" id="node11" href="$RandomProvider_8h_source.html" title="readdy/model/RandomProvider.h" alt="" coords="689,283,900,309"/>
+<area shape="rect" id="node13" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="925,275,1075,317"/>
+<area shape="rect" id="node17" href="$Enzymatic_8h.html" title="Declaration file of enzymatic reactions, i.e., A+C&#45;&gt;B+C. " alt="" coords="5,110,163,151"/>
+<area shape="rect" id="node18" href="$Fission_8h.html" title="Declaration of fission reactions, i.e., A&#45;&gt;B+C. " alt="" coords="549,110,707,151"/>
+<area shape="rect" id="node20" href="$Fusion_8h.html" title="Header file containing the declaration for fusion reactions, i.e., A+B&#45;&gt;C. " alt="" coords="368,110,525,151"/>
+<area shape="rect" id="node3" href="$Reaction_8h_source.html" title="Reaction.h" alt="" coords="361,200,447,227"/>
+<area shape="rect" id="node9" href="$Vec3_8h.html" title="File containing the definitions for Vec3. " alt="" coords="630,365,692,392"/>
+</map>

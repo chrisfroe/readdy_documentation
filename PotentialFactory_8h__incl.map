@@ -1,0 +1,20 @@
+<map id="include/readdy/model/potentials/PotentialFactory.h" name="include/readdy/model/potentials/PotentialFactory.h">
+<area shape="rect" id="node4" href="$model_2potentials_2PotentialsOrder1_8h_source.html" title="readdy/model/potentials\l/PotentialsOrder1.h" alt="" coords="146,187,304,229"/>
+<area shape="rect" id="node14" href="$model_2potentials_2PotentialsOrder2_8h_source.html" title="readdy/model/potentials\l/PotentialsOrder2.h" alt="" coords="282,97,440,138"/>
+<area shape="rect" id="node5" href="$PotentialOrder1_8h.html" title="Declaration of the base class of all order 1 potentials. " alt="" coords="131,285,254,312"/>
+<area shape="rect" id="node6" href="$Potential_8h.html" title="Header file containing the base class for all potentials. " alt="" coords="80,443,239,485"/>
+<area shape="rect" id="node9" href="$Particle_8h.html" title="Header file containing the definitions for the particle class. " alt="" coords="381,541,539,568"/>
+<area shape="rect" id="node11" href="$Vec3_8h.html" title="File containing the definitions for Vec3. " alt="" coords="657,624,719,651"/>
+<area shape="rect" id="node15" href="$KernelContext_8h.html" title="Container class for time independent information of the KernelContext. " alt="" coords="652,195,850,221"/>
+<area shape="rect" id="node20" href="$PotentialOrder2_8h.html" title="Declaration of the base class for all order 2 potentials. " alt="" coords="278,278,436,319"/>
+<area shape="rect" id="node21" href="$Reaction_8h_source.html" title="readdy/model/reactions\l/Reaction.h" alt="" coords="527,443,684,485"/>
+<area shape="rect" id="node27" href="$ReactionFactory_8h.html" title="In this header, the reaction factory is declared. " alt="" coords="672,278,830,319"/>
+<area shape="rect" id="node34" href="$ParticleTypePair_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1296,278,1488,319"/>
+<area shape="rect" id="node22" href="$RandomProvider_8h_source.html" title="readdy/model/RandomProvider.h" alt="" coords="614,541,826,568"/>
+<area shape="rect" id="node23" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="901,534,1051,575"/>
+<area shape="rect" id="node29" href="$Conversion_8h.html" title="Declaration of Conversion reactions, i.e., A&#45;&gt;B. " alt="" coords="575,368,674,395"/>
+<area shape="rect" id="node30" href="$Enzymatic_8h.html" title="Declaration file of enzymatic reactions, i.e., A+C&#45;&gt;B+C. " alt="" coords="698,368,792,395"/>
+<area shape="rect" id="node31" href="$Fission_8h.html" title="Declaration of fission reactions, i.e., A&#45;&gt;B+C. " alt="" coords="380,368,454,395"/>
+<area shape="rect" id="node32" href="$Fusion_8h.html" title="Header file containing the declaration for fusion reactions, i.e., A+B&#45;&gt;C. " alt="" coords="479,368,551,395"/>
+<area shape="rect" id="node33" href="$Decay_8h_source.html" title="Decay.h" alt="" coords="817,368,887,395"/>
+</map>

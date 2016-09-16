@@ -1,0 +1,5 @@
+<map id="readdy::model::potentials::HarmonicRepulsion" name="readdy::model::potentials::HarmonicRepulsion">
+<area shape="rect" id="node4" href="$classreaddy_1_1kernel_1_1singlecpu_1_1potentials_1_1HarmonicRepulsion.html" title="{readdy::kernel::singlecpu\l::potentials::HarmonicRepulsion\n||+ HarmonicRepulsion()\l+ calculateEnergy()\l+ calculateForce()\l+ calculateForceAndEnergy()\l+ getCutoffRadius()\l+ getCutoffRadiusSquared()\l+ replicate()\l}" alt="" coords="12,779,220,959"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1potentials_1_1PotentialOrder2.html" title="{readdy::model::potentials\l::PotentialOrder2\n||+ PotentialOrder2()\l+ calculateEnergy()\l+ calculateForce()\l+ calculateForceAndEnergy()\l+ configureForTypes()\l+ replicate()\l+ getCutoffRadius()\l+ getCutoffRadiusSquared()\l}" alt="" coords="21,248,211,443"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1potentials_1_1Potential.html" title="{readdy::model::potentials\l::Potential\n||+ Potential()\l+ ~Potential()\l+ getName()\l+ getOrder()\l+ getId()\l+ setId()\l+ getMaximalForce()\l+ replicate()\l}" alt="" coords="32,5,200,200"/>
+</map>

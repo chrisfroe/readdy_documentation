@@ -1,0 +1,12 @@
+<map id="include/readdy/model/reactions/ReactionFactory.h" name="include/readdy/model/reactions/ReactionFactory.h">
+<area shape="rect" id="node5" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="778,246,928,287"/>
+<area shape="rect" id="node10" href="$Conversion_8h.html" title="Declaration of Conversion reactions, i.e., A&#45;&gt;B. " alt="" coords="257,96,356,123"/>
+<area shape="rect" id="node19" href="$Enzymatic_8h.html" title="Declaration file of enzymatic reactions, i.e., A+C&#45;&gt;B+C. " alt="" coords="381,96,475,123"/>
+<area shape="rect" id="node20" href="$Fission_8h.html" title="Declaration of fission reactions, i.e., A&#45;&gt;B+C. " alt="" coords="691,96,764,123"/>
+<area shape="rect" id="node21" href="$Fusion_8h.html" title="Header file containing the declaration for fusion reactions, i.e., A+B&#45;&gt;C. " alt="" coords="595,96,667,123"/>
+<area shape="rect" id="node22" href="$Decay_8h_source.html" title="Decay.h" alt="" coords="499,96,569,123"/>
+<area shape="rect" id="node11" href="$Reaction_8h_source.html" title="Reaction.h" alt="" coords="463,171,548,197"/>
+<area shape="rect" id="node14" href="$Particle_8h.html" title="Header file containing the definitions for the particle class. " alt="" coords="70,253,228,280"/>
+<area shape="rect" id="node18" href="$RandomProvider_8h_source.html" title="readdy/model/RandomProvider.h" alt="" coords="542,253,753,280"/>
+<area shape="rect" id="node16" href="$Vec3_8h.html" title="File containing the definitions for Vec3. " alt="" coords="346,336,408,363"/>
+</map>

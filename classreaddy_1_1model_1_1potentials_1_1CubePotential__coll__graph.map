@@ -1,0 +1,7 @@
+<map id="readdy::model::potentials::CubePotential" name="readdy::model::potentials::CubePotential">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1potentials_1_1PotentialOrder1.html" title="{readdy::model::potentials\l::PotentialOrder1\n||+ PotentialOrder1()\l+ calculateEnergy()\l+ calculateForce()\l+ calculateForceAndEnergy()\l+ configureForType()\l+ getRelevantLengthScale()\l+ replicate()\l}" alt="" coords="5,286,195,466"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1potentials_1_1Potential.html" title="{readdy::model::potentials\l::Potential\n||+ Potential()\l+ ~Potential()\l+ getName()\l+ getOrder()\l+ getId()\l+ setId()\l+ getMaximalForce()\l+ replicate()\l}" alt="" coords="16,5,184,200"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1model_1_1Kernel.html" title="{readdy::model::Kernel\n||+ Kernel()\l+ ~Kernel()\l+ Kernel()\l+ operator=()\l+ Kernel()\l+ operator=()\l+ getName()\l+ createProgram()\l+ createProgram()\l+ createObservable()\land 26 more...\l}" alt="" coords="220,264,368,488"/>
+<area shape="rect" id="node5" href="$classreaddy_1_1model_1_1Plugin.html" title="{readdy::model::Plugin\n||+ getName()\l+ ~Plugin()\l}" alt="" coords="214,57,361,149"/>
+<area shape="rect" id="node7" href="$classreaddy_1_1model_1_1Vec3.html" title="{readdy::model::Vec3\n||+ Vec3()\l+ Vec3()\l+ Vec3()\l+ operator+=()\l+ operator*=()\l+ operator/=()\l+ operator[]()\l+ operator[]()\l+ operator==()\l+ operator!=()\l}" alt="" coords="393,271,535,481"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="include/readdy/model/_internal/Util.h.h" name="include/readdy/model/_internal/Util.h.h">
+<area shape="rect" id="node2" href="$KernelContext_8h.html" title="Container class for time independent information of the KernelContext. " alt="" coords="470,96,668,123"/>
+<area shape="rect" id="node8" href="$PotentialOrder1_8h.html" title="Declaration of the base class of all order 1 potentials. " alt="" coords="568,171,726,213"/>
+<area shape="rect" id="node16" href="$PotentialOrder2_8h.html" title="Declaration of the base class for all order 2 potentials. " alt="" coords="45,171,204,213"/>
+<area shape="rect" id="node17" href="$Reaction_8h_source.html" title="readdy/model/reactions\l/Reaction.h" alt="" coords="794,337,952,378"/>
+<area shape="rect" id="node23" href="$ReactionFactory_8h.html" title="In this header, the reaction factory is declared. " alt="" coords="960,171,1117,213"/>
+<area shape="rect" id="node31" href="$ParticleTypePair_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1534,171,1726,213"/>
+<area shape="rect" id="node9" href="$Potential_8h.html" title="Header file containing the base class for all potentials. " alt="" coords="345,337,504,378"/>
+<area shape="rect" id="node11" href="$Particle_8h.html" title="Header file containing the definitions for the particle class. " alt="" coords="715,435,873,461"/>
+<area shape="rect" id="node13" href="$Vec3_8h.html" title="File containing the definitions for Vec3. " alt="" coords="888,517,950,544"/>
+<area shape="rect" id="node18" href="$RandomProvider_8h_source.html" title="readdy/model/RandomProvider.h" alt="" coords="948,435,1160,461"/>
+<area shape="rect" id="node19" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="1262,427,1412,469"/>
+<area shape="rect" id="node26" href="$Conversion_8h.html" title="Declaration of Conversion reactions, i.e., A&#45;&gt;B. " alt="" coords="664,261,762,288"/>
+<area shape="rect" id="node27" href="$Enzymatic_8h.html" title="Declaration file of enzymatic reactions, i.e., A+C&#45;&gt;B+C. " alt="" coords="787,261,881,288"/>
+<area shape="rect" id="node28" href="$Fission_8h.html" title="Declaration of fission reactions, i.e., A&#45;&gt;B+C. " alt="" coords="1001,261,1074,288"/>
+<area shape="rect" id="node29" href="$Fusion_8h.html" title="Header file containing the declaration for fusion reactions, i.e., A+B&#45;&gt;C. " alt="" coords="1100,261,1172,288"/>
+<area shape="rect" id="node30" href="$Decay_8h_source.html" title="Decay.h" alt="" coords="906,261,976,288"/>
+</map>

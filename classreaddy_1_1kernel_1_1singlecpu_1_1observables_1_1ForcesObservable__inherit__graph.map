@@ -1,0 +1,5 @@
+<map id="readdy::kernel::singlecpu::observables::ForcesObservable&lt; kernel_t &gt;" name="readdy::kernel::singlecpu::observables::ForcesObservable&lt; kernel_t &gt;">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1ForcesObservable.html" title="{readdy::model::ForcesObservable\n|# typesToCount\l|+ ForcesObservable()\l+ ForcesObservable()\l+ evaluate()\l}" alt="" coords="5,493,224,600"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1Observable.html" title="{readdy::model::Observable\l\&lt; std::vector\&lt; readdy::\lmodel::Vec3 \&gt; \&gt;\n|# result\l# _callback_f\l|+ Observable()\l+ getResult()\l+ setCallback()\l+ setCallback()\l+ callback()\l}" alt="" coords="25,265,204,445"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1model_1_1ObservableBase.html" title="{readdy::model::ObservableBase\n|# stride\l# kernel\l# t_current\l# firstCall\l|+ ObservableBase()\l+ setStride()\l+ getStride()\l+ getCurrentTimeStep()\l+ ~ObservableBase()\l+ callback()\l+ evaluate()\l}" alt="" coords="11,6,219,215"/>
+</map>

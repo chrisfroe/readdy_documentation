@@ -1,0 +1,4 @@
+<map id="readdy::model::RadialDistributionObservable" name="readdy::model::RadialDistributionObservable">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1Observable.html" title="{readdy::model::Observable\l\&lt; std::pair\&lt; std::vector\l\&lt; double \&gt;, std::vector\&lt;\l double \&gt; \&gt; \&gt;\n|# result\l# _callback_f\l|+ Observable()\l+ getResult()\l+ setCallback()\l+ setCallback()\l+ callback()\l}" alt="" coords="23,264,201,459"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1ObservableBase.html" title="{readdy::model::ObservableBase\n|# stride\l# kernel\l# t_current\l# firstCall\l|+ ObservableBase()\l+ setStride()\l+ getStride()\l+ getCurrentTimeStep()\l+ ~ObservableBase()\l+ callback()\l+ evaluate()\l}" alt="" coords="8,6,216,215"/>
+</map>

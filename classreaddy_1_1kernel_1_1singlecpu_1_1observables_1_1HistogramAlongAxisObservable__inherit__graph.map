@@ -1,0 +1,5 @@
+<map id="readdy::kernel::singlecpu::observables::HistogramAlongAxisObservable&lt; kernel_t &gt;" name="readdy::kernel::singlecpu::observables::HistogramAlongAxisObservable&lt; kernel_t &gt;">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1HistogramAlongAxisObservable.html" title="{readdy::model::Histogram\lAlongAxisObservable\n|# binBorders\l# typesToCount\l# axis\l|+ HistogramAlongAxisObservable()\l+ HistogramAlongAxisObservable()\l+ evaluate()\l}" alt="" coords="5,478,232,629"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1Observable.html" title="{readdy::model::Observable\l\&lt; std::vector\&lt; double \&gt; \&gt;\n|# result\l# _callback_f\l|+ Observable()\l+ getResult()\l+ setCallback()\l+ setCallback()\l+ callback()\l}" alt="" coords="29,264,208,429"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1model_1_1ObservableBase.html" title="{readdy::model::ObservableBase\n|# stride\l# kernel\l# t_current\l# firstCall\l|+ ObservableBase()\l+ setStride()\l+ getStride()\l+ getCurrentTimeStep()\l+ ~ObservableBase()\l+ callback()\l+ evaluate()\l}" alt="" coords="15,6,223,215"/>
+</map>

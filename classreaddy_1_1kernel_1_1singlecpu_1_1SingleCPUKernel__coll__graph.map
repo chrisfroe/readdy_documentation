@@ -1,0 +1,6 @@
+<map id="readdy::kernel::singlecpu::SingleCPUKernel" name="readdy::kernel::singlecpu::SingleCPUKernel">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1Kernel.html" title="{readdy::model::Kernel\n||+ Kernel()\l+ ~Kernel()\l+ Kernel()\l+ operator=()\l+ Kernel()\l+ operator=()\l+ getName()\l+ createProgram()\l+ createProgram()\l+ createObservable()\land 26 more...\l}" alt="" coords="181,163,329,387"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1Plugin.html" title="{readdy::model::Plugin\n||+ getName()\l+ ~Plugin()\l}" alt="" coords="5,6,152,98"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="369,236,448,313"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="359,6,485,98"/>
+</map>

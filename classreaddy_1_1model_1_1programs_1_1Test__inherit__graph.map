@@ -1,0 +1,4 @@
+<map id="readdy::model::programs::Test" name="readdy::model::programs::Test">
+<area shape="rect" id="node3" href="$classreaddy_1_1kernel_1_1singlecpu_1_1programs_1_1SingleCPUTestProgram.html" title="{readdy::kernel::singlecpu\l::programs::SingleCPUTestProgram\n||+ SingleCPUTestProgram()\l+ ~SingleCPUTestProgram()\l+ execute()\l}" alt="" coords="5,318,237,439"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1programs_1_1Program.html" title="{readdy::model::programs\l::Program\n||+ Program()\l+ execute()\l+ ~Program()\l}" alt="" coords="38,6,204,127"/>
+</map>

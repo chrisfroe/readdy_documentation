@@ -1,0 +1,5 @@
+<map id="readdy::model::potentials::CubePotential" name="readdy::model::potentials::CubePotential">
+<area shape="rect" id="node4" href="$classreaddy_1_1kernel_1_1singlecpu_1_1potentials_1_1CubePotential.html" title="{readdy::kernel::singlecpu\l::potentials::CubePotential\n||+ CubePotential()\l+ calculateEnergy()\l+ calculateForce()\l+ calculateForceAndEnergy()\l+ replicate()\l}" alt="" coords="9,913,199,1063"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1potentials_1_1PotentialOrder1.html" title="{readdy::model::potentials\l::PotentialOrder1\n||+ PotentialOrder1()\l+ calculateEnergy()\l+ calculateForce()\l+ calculateForceAndEnergy()\l+ configureForType()\l+ getRelevantLengthScale()\l+ replicate()\l}" alt="" coords="9,249,199,429"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1potentials_1_1Potential.html" title="{readdy::model::potentials\l::Potential\n||+ Potential()\l+ ~Potential()\l+ getName()\l+ getOrder()\l+ getId()\l+ setId()\l+ getMaximalForce()\l+ replicate()\l}" alt="" coords="20,5,188,200"/>
+</map>

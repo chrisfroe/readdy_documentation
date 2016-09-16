@@ -1,0 +1,38 @@
+<map id="include/readdy/common/make_unique.h" name="include/readdy/common/make_unique.h">
+<area shape="rect" id="node2" href="$SingleCPUReactions_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1129,277,1289,333"/>
+<area shape="rect" id="node3" href="$Observable_8h.html" title="Header file containing the definitions for ObservableName, ObservableBase, Observable and CombinerObs..." alt="" coords="650,389,795,430"/>
+<area shape="rect" id="node22" href="$Reaction_8h_source.html" title="include/readdy/model\l/reactions/Reaction.h" alt="" coords="1136,97,1283,138"/>
+<area shape="rect" id="node32" href="$ReactionFactory_8h.html" title="In this header, the reaction factory is declared. " alt="" coords="1319,285,1509,326"/>
+<area shape="rect" id="node4" href="$ObservableFactory_8h.html" title="Header file containing some common utils. " alt="" coords="488,597,687,638"/>
+<area shape="rect" id="node20" href="$ObservableWrapper_8h.html" title="This header file contains the definition of ObservableWrapper, which wraps a std::function to an obse..." alt="" coords="955,597,1160,638"/>
+<area shape="rect" id="node21" href="$Observables_8h.html" title="Header file containing definitions for various observables. " alt="" coords="515,493,660,534"/>
+<area shape="rect" id="node5" href="$SingleCPUObservableFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="203,901,415,957"/>
+<area shape="rect" id="node6" href="$Kernel_8h.html" title="File containing the definitions of Kernel and KernelProvider. " alt="" coords="1235,701,1380,742"/>
+<area shape="rect" id="node7" href="$kernel_2singlecpu_2potentials_2PotentialsOrder1_8h_source.html" title="include/readdy/kernel\l/singlecpu/potentials\l/PotentialsOrder1.h" alt="" coords="1382,797,1527,853"/>
+<area shape="rect" id="node8" href="$kernel_2singlecpu_2potentials_2PotentialsOrder2_8h_source.html" title="include/readdy/kernel\l/singlecpu/potentials\l/PotentialsOrder2.h" alt="" coords="1798,797,1943,853"/>
+<area shape="rect" id="node9" href="$SingleCPUKernel_8h_source.html" title="include/readdy/kernel\l/singlecpu/SingleCPUKernel.h" alt="" coords="746,805,944,846"/>
+<area shape="rect" id="node16" href="$KernelPluginDecorator_8h.html" title="This file contains the KernelPluginDecorator class definitions. " alt="" coords="969,805,1188,846"/>
+<area shape="rect" id="node17" href="$KernelProvider_8h.html" title="This file contains the KernelProvider class. It is used to make kernels that reside in shared libs ac..." alt="" coords="1213,805,1357,846"/>
+<area shape="rect" id="node18" href="$Simulation_8h_source.html" title="include/readdy/Simulation.h" alt="" coords="1803,916,1985,943"/>
+<area shape="rect" id="node19" href="$SimulationScheme_8h.html" title="Header file containing the SchemeConfigurator&lt;T&gt; and a corresponding SimulationScheme superclass defi..." alt="" coords="1603,805,1773,846"/>
+<area shape="rect" id="node10" href="$SingleCPUObservables_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="5,901,179,957"/>
+<area shape="rect" id="node11" href="$SingleCPUAddParticleProgram_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1549,901,1779,957"/>
+<area shape="rect" id="node12" href="$SingleCPUCalculateForces_8h_source.html" title="include/readdy/kernel\l/singlecpu/programs/SingleCPUCalculate\lForces.h" alt="" coords="439,901,701,957"/>
+<area shape="rect" id="node13" href="$SingleCPUEulerBDIntegrator_8h_source.html" title="include/readdy/kernel\l/singlecpu/programs/SingleCPUEuler\lBDIntegrator.h" alt="" coords="726,901,964,957"/>
+<area shape="rect" id="node14" href="$SingleCPUReactionImpls_8h_source.html" title="include/readdy/kernel\l/singlecpu/programs/SingleCPUReaction\lImpls.h" alt="" coords="989,901,1248,957"/>
+<area shape="rect" id="node15" href="$SingleCPUUpdateNeighborList_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1273,901,1524,957"/>
+<area shape="rect" id="node23" href="$KernelContext_8h.html" title="Container class for time independent information of the KernelContext. " alt="" coords="1121,389,1265,430"/>
+<area shape="rect" id="node31" href="$Conversion_8h.html" title="Declaration of Conversion reactions, i.e., A&#45;&gt;B. " alt="" coords="1129,187,1288,229"/>
+<area shape="rect" id="node34" href="$Decay_8h_source.html" title="include/readdy/model\l/reactions/Decay.h" alt="" coords="1663,187,1808,229"/>
+<area shape="rect" id="node35" href="$Enzymatic_8h.html" title="Declaration file of enzymatic reactions, i.e., A+C&#45;&gt;B+C. " alt="" coords="1314,187,1469,229"/>
+<area shape="rect" id="node36" href="$Fission_8h.html" title="Declaration of fission reactions, i.e., A&#45;&gt;B+C. " alt="" coords="1494,187,1639,229"/>
+<area shape="rect" id="node37" href="$Fusion_8h.html" title="Header file containing the declaration for fusion reactions, i.e., A+B&#45;&gt;C. " alt="" coords="959,187,1104,229"/>
+<area shape="rect" id="node24" href="$SingleCPUNeighborList_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="887,485,1128,541"/>
+<area shape="rect" id="node25" href="$SingleCPUKernelStateModel_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="712,589,931,645"/>
+<area shape="rect" id="node27" href="$Util_8h_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1231,493,1376,534"/>
+<area shape="rect" id="node28" href="$model_2potentials_2PotentialsOrder2_8h_source.html" title="include/readdy/model\l/potentials/PotentialsOrder2.h" alt="" coords="1452,493,1647,534"/>
+<area shape="rect" id="node26" href="$SingleCPUProgramFactory_8h_source.html" title="include/readdy/kernel\l/singlecpu/programs/SingleCPUProgram\lFactory.h" alt="" coords="550,693,807,749"/>
+<area shape="rect" id="node29" href="$PotentialFactory_8h.html" title="Header file containing the definition of the PotentialFactory. " alt="" coords="1453,597,1645,638"/>
+<area shape="rect" id="node30" href="$SingleCPUPotentialFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1451,693,1648,749"/>
+<area shape="rect" id="node33" href="$SingleCPUReactionFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1451,381,1649,437"/>
+</map>

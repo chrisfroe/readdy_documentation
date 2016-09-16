@@ -1,0 +1,43 @@
+<map id="include/readdy/model/Particle.h" name="include/readdy/model/Particle.h">
+<area shape="rect" id="node2" href="$SingleCPUParticleData_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1382,381,1615,437"/>
+<area shape="rect" id="node9" href="$SingleCPUAddParticleProgram_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2135,901,2365,957"/>
+<area shape="rect" id="node14" href="$SingleCPUReactions_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1031,277,1192,333"/>
+<area shape="rect" id="node15" href="$KernelStateModel_8h.html" title="Defines the KernelStateModel, which gives information about the system&#39;s current state. " alt="" coords="753,493,897,534"/>
+<area shape="rect" id="node23" href="$Potential_8h.html" title="Header file containing the base class for all potentials. " alt="" coords="277,187,424,229"/>
+<area shape="rect" id="node32" href="$Programs_8h.html" title="Declaration of all globally available programs. " alt="" coords="1578,493,1728,534"/>
+<area shape="rect" id="node35" href="$Reaction_8h_source.html" title="include/readdy/model\l/reactions/Reaction.h" alt="" coords="856,97,1003,138"/>
+<area shape="rect" id="node3" href="$SingleCPUNeighborList_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="974,485,1215,541"/>
+<area shape="rect" id="node4" href="$SingleCPUKernelStateModel_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="827,589,1045,645"/>
+<area shape="rect" id="node5" href="$SingleCPUProgramFactory_8h_source.html" title="include/readdy/kernel\l/singlecpu/programs/SingleCPUProgram\lFactory.h" alt="" coords="987,693,1244,749"/>
+<area shape="rect" id="node6" href="$SingleCPUKernel_8h_source.html" title="include/readdy/kernel\l/singlecpu/SingleCPUKernel.h" alt="" coords="1333,805,1531,846"/>
+<area shape="rect" id="node7" href="$SingleCPUObservableFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="878,901,1089,957"/>
+<area shape="rect" id="node8" href="$SingleCPUObservables_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1114,901,1288,957"/>
+<area shape="rect" id="node10" href="$SingleCPUCalculateForces_8h_source.html" title="include/readdy/kernel\l/singlecpu/programs/SingleCPUCalculate\lForces.h" alt="" coords="591,901,853,957"/>
+<area shape="rect" id="node11" href="$SingleCPUEulerBDIntegrator_8h_source.html" title="include/readdy/kernel\l/singlecpu/programs/SingleCPUEuler\lBDIntegrator.h" alt="" coords="1313,901,1551,957"/>
+<area shape="rect" id="node12" href="$SingleCPUReactionImpls_8h_source.html" title="include/readdy/kernel\l/singlecpu/programs/SingleCPUReaction\lImpls.h" alt="" coords="1575,901,1835,957"/>
+<area shape="rect" id="node13" href="$SingleCPUUpdateNeighborList_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1860,901,2111,957"/>
+<area shape="rect" id="node16" href="$Kernel_8h.html" title="File containing the definitions of Kernel and KernelProvider. " alt="" coords="609,701,753,742"/>
+<area shape="rect" id="node17" href="$kernel_2singlecpu_2potentials_2PotentialsOrder1_8h_source.html" title="include/readdy/kernel\l/singlecpu/potentials\l/PotentialsOrder1.h" alt="" coords="42,797,187,853"/>
+<area shape="rect" id="node18" href="$kernel_2singlecpu_2potentials_2PotentialsOrder2_8h_source.html" title="include/readdy/kernel\l/singlecpu/potentials\l/PotentialsOrder2.h" alt="" coords="254,797,399,853"/>
+<area shape="rect" id="node19" href="$KernelPluginDecorator_8h.html" title="This file contains the KernelPluginDecorator class definitions. " alt="" coords="670,805,889,846"/>
+<area shape="rect" id="node20" href="$KernelProvider_8h.html" title="This file contains the KernelProvider class. It is used to make kernels that reside in shared libs ac..." alt="" coords="915,805,1059,846"/>
+<area shape="rect" id="node21" href="$Simulation_8h_source.html" title="include/readdy/Simulation.h" alt="" coords="385,916,567,943"/>
+<area shape="rect" id="node22" href="$SimulationScheme_8h.html" title="Header file containing the SchemeConfigurator&lt;T&gt; and a corresponding SimulationScheme superclass defi..." alt="" coords="424,805,595,846"/>
+<area shape="rect" id="node24" href="$PotentialOrder1_8h.html" title="Declaration of the base class of all order 1 potentials. " alt="" coords="47,285,233,326"/>
+<area shape="rect" id="node31" href="$PotentialOrder2_8h.html" title="Declaration of the base class for all order 2 potentials. " alt="" coords="257,285,444,326"/>
+<area shape="rect" id="node25" href="$KernelContext_8h.html" title="Container class for time independent information of the KernelContext. " alt="" coords="421,389,565,430"/>
+<area shape="rect" id="node30" href="$model_2potentials_2PotentialsOrder1_8h_source.html" title="include/readdy/model\l/potentials/PotentialsOrder1.h" alt="" coords="43,493,237,534"/>
+<area shape="rect" id="node26" href="$Util_8h_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="531,493,676,534"/>
+<area shape="rect" id="node27" href="$model_2potentials_2PotentialsOrder2_8h_source.html" title="include/readdy/model\l/potentials/PotentialsOrder2.h" alt="" coords="261,493,456,534"/>
+<area shape="rect" id="node28" href="$PotentialFactory_8h.html" title="Header file containing the definition of the PotentialFactory. " alt="" coords="156,597,348,638"/>
+<area shape="rect" id="node29" href="$SingleCPUPotentialFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="152,693,349,749"/>
+<area shape="rect" id="node33" href="$SingleCPUTestProgram_8h_source.html" title="include/readdy/kernel\l/singlecpu/programs/SingleCPUTest\lProgram.h" alt="" coords="1741,589,1975,645"/>
+<area shape="rect" id="node34" href="$ProgramFactory_8h.html" title="Declaration of the program factory. " alt="" coords="1070,597,1257,638"/>
+<area shape="rect" id="node36" href="$Conversion_8h.html" title="Declaration of Conversion reactions, i.e., A&#45;&gt;B. " alt="" coords="849,187,1008,229"/>
+<area shape="rect" id="node39" href="$Decay_8h_source.html" title="include/readdy/model\l/reactions/Decay.h" alt="" coords="510,187,655,229"/>
+<area shape="rect" id="node40" href="$Enzymatic_8h.html" title="Declaration file of enzymatic reactions, i.e., A+C&#45;&gt;B+C. " alt="" coords="1034,187,1189,229"/>
+<area shape="rect" id="node41" href="$Fission_8h.html" title="Declaration of fission reactions, i.e., A&#45;&gt;B+C. " alt="" coords="1214,187,1359,229"/>
+<area shape="rect" id="node42" href="$Fusion_8h.html" title="Header file containing the declaration for fusion reactions, i.e., A+B&#45;&gt;C. " alt="" coords="679,187,824,229"/>
+<area shape="rect" id="node37" href="$ReactionFactory_8h.html" title="In this header, the reaction factory is declared. " alt="" coords="711,285,901,326"/>
+<area shape="rect" id="node38" href="$SingleCPUReactionFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="751,381,949,437"/>
+</map>

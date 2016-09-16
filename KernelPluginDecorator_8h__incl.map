@@ -1,0 +1,31 @@
+<map id="include/readdy/plugin/_internal/KernelPluginDecorator.h" name="include/readdy/plugin/_internal/KernelPluginDecorator.h">
+<area shape="rect" id="node2" href="$Kernel_8h.html" title="File containing the definitions of Kernel and KernelProvider. " alt="" coords="1128,96,1280,123"/>
+<area shape="rect" id="node6" href="$Plugin_8h.html" title="Header file containing the definitions for readdy::model::Plugin. " alt="" coords="950,541,1100,568"/>
+<area shape="rect" id="node13" href="$Program_8h.html" title="Declaration of the program base class. " alt="" coords="2311,715,2469,757"/>
+<area shape="rect" id="node15" href="$KernelStateModel_8h.html" title="Defines the KernelStateModel, which gives information about the system&#39;s current state. " alt="" coords="155,534,327,575"/>
+<area shape="rect" id="node24" href="$KernelContext_8h.html" title="Container class for time independent information of the KernelContext. " alt="" coords="2014,360,2212,387"/>
+<area shape="rect" id="node30" href="$ReactionFactory_8h.html" title="In this header, the reaction factory is declared. " alt="" coords="1783,443,1940,485"/>
+<area shape="rect" id="node38" href="$ObservableFactory_8h.html" title="Header file containing some common utils. " alt="" coords="777,443,929,485"/>
+<area shape="rect" id="node43" href="$ObservableWrapper_8h.html" title="This header file contains the definition of ObservableWrapper, which wraps a std::function to an obse..." alt="" coords="366,262,519,303"/>
+<area shape="rect" id="node44" href="$PotentialFactory_8h.html" title="Header file containing the definition of the PotentialFactory. " alt="" coords="2033,171,2192,213"/>
+<area shape="rect" id="node48" href="$ProgramFactory_8h.html" title="Declaration of the program factory. " alt="" coords="1125,534,1283,575"/>
+<area shape="rect" id="node17" href="$Types_8h.html" title="Header file containing some basic typedefs. " alt="" coords="337,723,503,749"/>
+<area shape="rect" id="node19" href="$Particle_8h.html" title="Header file containing the definitions for the particle class. " alt="" coords="935,723,1011,749"/>
+<area shape="rect" id="node22" href="$Vec3_8h.html" title="File containing the definitions for Vec3. " alt="" coords="675,805,737,832"/>
+<area shape="rect" id="node26" href="$PotentialOrder1_8h.html" title="Declaration of the base class of all order 1 potentials. " alt="" coords="2729,443,2888,485"/>
+<area shape="rect" id="node27" href="$PotentialOrder2_8h.html" title="Declaration of the base class for all order 2 potentials. " alt="" coords="2545,443,2704,485"/>
+<area shape="rect" id="node28" href="$Reaction_8h_source.html" title="readdy/model/reactions\l/Reaction.h" alt="" coords="1684,625,1841,666"/>
+<area shape="rect" id="node37" href="$ParticleTypePair_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2279,443,2471,485"/>
+<area shape="rect" id="node29" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="1397,715,1547,757"/>
+<area shape="rect" id="node32" href="$Conversion_8h.html" title="Declaration of Conversion reactions, i.e., A&#45;&gt;B. " alt="" coords="1657,541,1756,568"/>
+<area shape="rect" id="node33" href="$Enzymatic_8h.html" title="Declaration file of enzymatic reactions, i.e., A+C&#45;&gt;B+C. " alt="" coords="1781,541,1875,568"/>
+<area shape="rect" id="node34" href="$Fission_8h.html" title="Declaration of fission reactions, i.e., A&#45;&gt;B+C. " alt="" coords="1900,541,1973,568"/>
+<area shape="rect" id="node35" href="$Fusion_8h.html" title="Header file containing the declaration for fusion reactions, i.e., A+B&#45;&gt;C. " alt="" coords="2049,541,2121,568"/>
+<area shape="rect" id="node36" href="$Decay_8h_source.html" title="Decay.h" alt="" coords="1562,541,1632,568"/>
+<area shape="rect" id="node39" href="$Observable_8h.html" title="Header file containing the definitions for ObservableName, ObservableBase, Observable and CombinerObs..." alt="" coords="329,632,511,659"/>
+<area shape="rect" id="node40" href="$Utils_8h_source.html" title="readdy/common/Utils.h" alt="" coords="717,541,875,568"/>
+<area shape="rect" id="node41" href="$Observables_8h.html" title="Header file containing definitions for various observables. " alt="" coords="454,541,641,568"/>
+<area shape="rect" id="node46" href="$model_2potentials_2PotentialsOrder1_8h_source.html" title="readdy/model/potentials\l/PotentialsOrder1.h" alt="" coords="2601,353,2760,394"/>
+<area shape="rect" id="node47" href="$model_2potentials_2PotentialsOrder2_8h_source.html" title="readdy/model/potentials\l/PotentialsOrder2.h" alt="" coords="2033,262,2192,303"/>
+<area shape="rect" id="node49" href="$Programs_8h.html" title="Declaration of all globally available programs. " alt="" coords="1162,625,1320,666"/>
+</map>
